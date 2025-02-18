@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.dogwithfunny.dogtraining.dognews.flow"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.dogwithfunny.dogtraining.dognews.flow"
